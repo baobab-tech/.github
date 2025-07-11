@@ -1,7 +1,7 @@
 # Baobab Tech 🌳
 **Expanding human potential with AI-enhanced digital solutions**
 
-Hey there! 👋 We're Baobab Tech, a technology consulting firm that specializes in modern AI applications for organizations making a difference in development and humanitarian work. We love creating sustainable digital solutions that enhance human capabilities while tackling real-world challenges.
+Hey there! 👋 We're Baobab Tech, a technology consulting firm that specializes in modern AI applications for organizations making a difference in social, development and humanitarian work. We love creating sustainable digital solutions that enhance human capabilities while tackling real-world challenges.
 
 ## 🎯 Our Mission
 We amplify human potential and help organizations create greater impact through strategic AI consultation and custom digital solutions. Our human-centric approach ensures AI serves as a tool to elevate human capabilities, working alongside people to achieve meaningful goals.
@@ -15,7 +15,7 @@ We amplify human potential and help organizations create greater impact through 
 ## 🔧 Our Technical Approach
 We dive deep beyond buzzword solutions and surface-level AI implementations. Our team understands the underlying mechanics of modern AI systems and builds tailored workflows that maximize impact with minimal resources:
 
-**Frugal AI Engineering** - We build cost-effective RAG systems, optimized LLM workflows, and efficient data pipelines that deliver results without breaking budgets.
+**Frugal AI Engineering** - We build cost-effective (agentic) RAG systems, optimized LLM workflows, and efficient data pipelines that deliver results without breaking budgets.
 
 **Custom Agentic Workflows** - We design multi-step AI systems that automate complex decision-making processes, from document analysis to strategic planning.
 
