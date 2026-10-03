@@ -3,7 +3,7 @@
 
 Hey there! 👋 We're Baobab Tech, a human-centered technology organization that specializes in responsible use of AI for organizations making a difference in social, development and humanitarian work. We help build sustainable digital solutions that enhance human capabilities while tackling real-world challenges.
 
-*We are not a tech vendor and we believe we can do AI very differently that where Big Tech wants to take us.*
+*We are not a tech vendor, we are a solutions partners. We believe we can do AI very differently that where Big Tech wants to take us.*
 
 
 ## 🎯 Our Mission
