@@ -1,7 +1,10 @@
 # Baobab Tech 🌳
 **Expanding human potential with AI-enhanced digital solutions**
 
-Hey there! 👋 We're Baobab Tech, a technology consulting firm that specializes in modern AI applications for organizations making a difference in social, development and humanitarian work. We love creating sustainable digital solutions that enhance human capabilities while tackling real-world challenges.
+Hey there! 👋 We're Baobab Tech, a human-centered technology organization that specializes in responsible use of AI for organizations making a difference in social, development and humanitarian work. We help build sustainable digital solutions that enhance human capabilities while tackling real-world challenges.
+
+*We are not a tech vendor and we believe we can do AI very differently that where Big Tech wants to take us.*
+
 
 ## 🎯 Our Mission
 We amplify human potential and help organizations create greater impact through strategic AI consultation and custom digital solutions. Our human-centric approach ensures AI serves as a tool to elevate human capabilities, working alongside people to achieve meaningful goals.
