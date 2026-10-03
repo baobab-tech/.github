@@ -27,18 +27,10 @@ We dive deep beyond buzzword solutions and surface-level AI implementations. Our
 **Evidence-Based AI** - We measure real impact through rigorous evaluation frameworks tailored to humanitarian and development contexts.
 
 ## 🌍 Current Focus Areas
-We work with organizations across the WASH (Water, Sanitation, and Hygiene) sector, including partnerships with:
-- Action Contre la Faim (ACF)
-- The Center for Affordable Water & Sanitation Technology (CAWST)
-- Rural Water Supply Network (RWSN)
-- The Global WASH Cluster
-- Global Water Center (GWC)
-- Open WASH Data
-
-We also work in other areas of social impact in the humanitarian and development sectors, focusing on building AI solutions and tools for organizations and governments.
+We work with non-profits, civil society organizations and governments working in the humanitarian and development sectors, rights spaces (sexual reproductive health) and other social impact domains.  
 
 ## 🔓 Open Source Commitment
-We're committed to developing open source social good tooling for AI applications. Our goal is to democratize access to AI-powered solutions that can drive positive impact in development and humanitarian contexts.
+We're committed to developing open source social good tooling for AI applications. Our goal is to democratize access to AI-powered solutions that can drive positive impact in development and humanitarian contexts. We understand the risk of detractors misusing sensitive data and tooling and will deploy tools with trusted partners only in those cases.
 
 *More open source projects coming soon as we continue to build tools that serve the greater good.* ✨
 
@@ -46,12 +38,10 @@ We're committed to developing open source social good tooling for AI application
 We believe in:
 - **Human-centric AI** - Technology that augments human abilities
 - **Knowledge equity** - Making AI accessible to all stakeholders
-- **Local leadership** - Prioritizing community-driven development
+- **Local leadership** - Prioritizing AI and data sovereignty
 - **Evidence-based implementation** - Rigorous evaluation matched to implementation stages
 
 ## 📫 Connect With Us
 - 🌐 Visit our website: [baobabtech.ai](https://baobabtech.ai)
 - 📝 Read our insights on AI in development: [AI Blog](https://baobabtech.ai/articles)
 
----
-*Like the mighty baobab tree, we navigate the complex technological landscape with resilience and innovation, creating solutions that drive growth and adaptability while remaining mindful of our environmental impact.* 🌳
